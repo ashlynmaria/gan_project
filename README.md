@@ -125,4 +125,4 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 
 ## 🙋‍♀️ Author
 
-Ashlyn Benoy! I had so much fun doing this project, I hope 
+Ashlyn Benoy
